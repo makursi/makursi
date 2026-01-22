@@ -1,6 +1,6 @@
 # 👋 Hi, I'm ChoriaKiinweill wizard! This is my [castle](https://mizuki-rosy.vercel.app/posts/hello/)!
 I will continue to work hard to learn skills and solve all the problems!!
-![Alt text]([https://ibb.co/R4sHF4tL](https://i.ibb.co/QjTmgjhs/ezgif-847a5b2960e55af6.gif))
+![Carla](https://i.ibb.co/QjTmgjhs/ezgif-847a5b2960e55af6.gif)
 
 🚀 Passionate about building beautiful and functional web applications.  
 🌱 Currently learning **React,Zig,Nuxtjs,Nextjs**.  
