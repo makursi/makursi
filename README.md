@@ -1,4 +1,4 @@
-# 👋 Hi, I'm ChoriaKiinweill!
+# 👋 Hi, I'm ChoriaKiinweill wizard! This is my [castle](https://mizuki-rosy.vercel.app/posts/hello/)!
 
 🚀 Passionate about building beautiful and functional web applications.  
 🌱 Currently learning **React,Zig,Nuxtjs,Nextjs**.  
