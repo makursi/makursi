@@ -1,4 +1,4 @@
-# 👋 Hi, I'm ChoriaKiinweill![]herf()
+# 👋 Hi, I'm ChoriaKiinweill!
 
 🚀 Passionate about building beautiful and functional web applications.  
 🌱 Currently learning **React,Zig,Nuxtjs,Nextjs**.  
