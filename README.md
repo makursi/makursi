@@ -22,6 +22,6 @@ I will continue to work hard to learn skills and solve all the problems!!
 [![My Skills](https://skillicons.dev/icons?i=mongodb,mysql)](https://skillicons.dev)
 
 ### 🛠️ Tools & Others
-[![My Skills](https://skillicons.dev/icons?i=git,vscode,zed)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,vscode)](https://skillicons.dev)
 
 ---
