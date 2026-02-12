@@ -19,7 +19,7 @@ I will continue to work hard to learn skills and solve all the problems!!
 [![My Skills](https://skillicons.dev/icons?i=nodejs,npm,express,bun,elysia)](https://skillicons.dev)
 
 ### 🗄️ Database
-[![My Skills](https://skillicons.dev/icons?i=mongodb,mongoose,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql)](https://skillicons.dev)
 
 ### 🛠️ Tools & Others
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
