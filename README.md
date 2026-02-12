@@ -16,10 +16,7 @@ I will continue to work hard to learn skills and solve all the problems!!
 
 
 ### ⚙️ Backend & Runtime
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Bun](https://img.shields.io/badge/Bun-000000?style=flat&logo=bun&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
-![Elysia.js](https://img.shields.io/badge/Elysia.js-FF6BFF?style=flat&logo=elysia&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,npm,express,bun,elysiajs)](https://skillicons.dev)
 
 ### 🗄️ Database
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
