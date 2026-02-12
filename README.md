@@ -22,8 +22,6 @@ I will continue to work hard to learn skills and solve all the problems!!
 [![My Skills](https://skillicons.dev/icons?i=mongodb,mysql)](https://skillicons.dev)
 
 ### 🛠️ Tools & Others
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?style=flat&logo=nuxtdotjs&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=git,vscode,zed)](https://skillicons.dev)
 
 ---
