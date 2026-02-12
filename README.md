@@ -16,7 +16,7 @@ I will continue to work hard to learn skills and solve all the problems!!
 
 
 ### ⚙️ Backend & Runtime
-[![My Skills](https://skillicons.dev/icons?i=nodejs,npm,express,bun,elysiajs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,npm,express,bun,elysia)](https://skillicons.dev)
 
 ### 🗄️ Database
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
