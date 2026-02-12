@@ -10,11 +10,8 @@ I will continue to work hard to learn skills and solve all the problems!!
 ---
 
 ## 💻 Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 ### 🧱 Frontend
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,typescript,vuejs)](https://skillicons.dev)
 
 
 
