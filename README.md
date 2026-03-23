@@ -16,10 +16,10 @@ I will continue to work hard to learn skills and solve all the problems!!
 
 
 ### ⚙️ Backend & Runtime
-[![My Skills](https://skillicons.dev/icons?i=nodejs,npm,express,bun,elysia,nuxt)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,npm,express,bun,elysia,nuxt,next)](https://skillicons.dev)
 
 ### 🗄️ Database
-[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,turso)](https://skillicons.dev)
 
 ### 🛠️ Tools & Others
 [![My Skills](https://skillicons.dev/icons?i=git,vscode)](https://skillicons.dev)
