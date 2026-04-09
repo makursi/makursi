@@ -1,4 +1,4 @@
-# 👋 Hi, I'm ChoriaKiinweill wizard! This is my [castle](https://mizuki-rosy.vercel.app/posts/hello/)!
+# 👋 Hi, I'm ChoriaKiinweill wizard! This is my [castle](https://www.choria.top)!
 I will continue to work hard to learn skills and solve all the problems!!
 
 ![Alt text](./assets/Carla.gif)
