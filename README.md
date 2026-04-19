@@ -11,7 +11,7 @@ I will continue to work hard to learn skills and solve all the problems!!
 
 ## 💻 Tech Stack
 ### 🧱 Frontend
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,typescript,vuejs,pinia)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,typescript,vuejs)](https://skillicons.dev)
 
 
 
