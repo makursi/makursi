@@ -4,8 +4,6 @@ I will continue to work hard to learn skills and solve all the problems!!
 ![Alt text](./assets/Carla.gif)
 
 🚀 Passionate about building beautiful and functional web applications.  
-🌱 Currently learning **React,Zig**.  
-
 
 ---
 
